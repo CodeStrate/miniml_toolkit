@@ -1,0 +1,3 @@
+[submodule "miniML-models"]
+	path = miniML-models
+	url = https://github.com/CodeStrate/miniML-models
