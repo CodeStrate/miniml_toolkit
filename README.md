@@ -23,12 +23,12 @@ No scikit-learn. No black boxes. Just gradients, dot products, and clean Python 
 
 MiniML-Toolkit/
 ├── models/
-│   ├── simple\_linear\_regression.py      # SLR model (1 X, 1 y)
-│   └── multiple\_linear\_regression.py    # MLR model (n X, 1 y)
+│   ├── simple_linear_regression.py      # SLR model (1 X, 1 y)
+│   └── multiple_linear_regression.py    # MLR model (n X, 1 y)
+│   └── and more !!!
 ├── utils/
-│   ├── standard\_scaler.py               # Custom StandardScaler class
-│   ├── train\_test\_split.py              # Manual train-test splitting
-│   └── data\_utils.py                    # Optional dummy data generator
+│   ├── standard_scaler.py               # Custom StandardScaler class
+│   └── model_utils.py                    # Normalizer and Train Test Splitter
 ├── app.py                              # Run MLR/SLR training + evaluation
 ├── requirements.txt
 └── README.md
