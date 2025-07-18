@@ -1,4 +1,4 @@
-from models.multiple_linear_regression import MultipleLinearRegression
+from miniML_models.models.multiple_linear_regression import MultipleLinearRegression
 from utils.standard_scaler import StandardScaler
 from utils.metrics import mean_squared_error, r2_score
 from utils.model_utils import train_test_split
